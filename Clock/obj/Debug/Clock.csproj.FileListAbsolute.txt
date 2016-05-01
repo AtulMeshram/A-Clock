@@ -1,0 +1,24 @@
+C:\Users\Atul Meshram\Desktop\Clock\Clock\bin\Debug\Clock.exe.config
+C:\Users\Atul Meshram\Desktop\Clock\Clock\bin\Debug\Clock.exe.manifest
+C:\Users\Atul Meshram\Desktop\Clock\Clock\bin\Debug\Clock.application
+C:\Users\Atul Meshram\Desktop\Clock\Clock\bin\Debug\Clock.exe
+C:\Users\Atul Meshram\Desktop\Clock\Clock\bin\Debug\Clock.pdb
+C:\Users\Atul Meshram\Desktop\Clock\Clock\obj\Debug\Clock.frmClock.resources
+C:\Users\Atul Meshram\Desktop\Clock\Clock\obj\Debug\Clock.Properties.Resources.resources
+C:\Users\Atul Meshram\Desktop\Clock\Clock\obj\Debug\Clock.csproj.GenerateResource.Cache
+C:\Users\Atul Meshram\Desktop\Clock\Clock\obj\Debug\Clock.exe.manifest
+C:\Users\Atul Meshram\Desktop\Clock\Clock\obj\Debug\Clock.application
+C:\Users\Atul Meshram\Desktop\Clock\Clock\obj\Debug\Clock.exe
+C:\Users\Atul Meshram\Desktop\Clock\Clock\obj\Debug\Clock.pdb
+D:\Study\Study\Project\Clock\Clock\bin\Debug\Clock.exe.config
+D:\Study\Study\Project\Clock\Clock\obj\Debug\Clock.exe
+D:\Study\Study\Project\Clock\Clock\obj\Debug\Clock.pdb
+D:\Study\Project\Clock\Clock\bin\Debug\Clock.exe.config
+D:\Study\Project\Clock\Clock\bin\Debug\Clock.exe
+D:\Study\Project\Clock\Clock\bin\Debug\Clock.pdb
+D:\Study\Project\Clock\Clock\obj\Debug\Clock.csprojResolveAssemblyReference.cache
+D:\Study\Project\Clock\Clock\obj\Debug\Clock.frmClock.resources
+D:\Study\Project\Clock\Clock\obj\Debug\Clock.Properties.Resources.resources
+D:\Study\Project\Clock\Clock\obj\Debug\Clock.csproj.GenerateResource.Cache
+D:\Study\Project\Clock\Clock\obj\Debug\Clock.exe
+D:\Study\Project\Clock\Clock\obj\Debug\Clock.pdb
